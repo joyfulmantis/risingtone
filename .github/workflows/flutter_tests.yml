@@ -1,0 +1,25 @@
+name: Flutter_Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the code
+        uses: actions/checkout@v2
+      - name: Install Flutter
+        uses: subosito/flutter-action@v2.12.0
+        with:
+          flutter-version: '3.16.0'
+      - name: Get packages
+        run: flutter pub get
+      - name: Analyze
+        run: flutter analyze || true
+      - name: Run tests
+        run: flutter test --coverage

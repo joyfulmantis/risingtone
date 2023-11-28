@@ -1,0 +1,644 @@
+{
+  "skillLevels": [
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "One"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [],
+              "uniqueID": 1042
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Two"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "One"
+                ]
+              ],
+              "uniqueID": 1000
+            }
+          ]
+        }
+      ],
+      "level": 0
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Three"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "One"
+                ]
+              ],
+              "uniqueID": 1001
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1002
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Four"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1003
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1004
+            }
+          ]
+        }
+      ],
+      "level": 1
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "One",
+            "One"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [],
+              "uniqueID": 1043
+            }
+          ]
+        }
+      ],
+      "level": 2
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "One",
+            "Two"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1005
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "One",
+            "Three"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1006
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1007
+            }
+          ]
+        }
+      ],
+      "level": 3
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "One",
+            "Four"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1008
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1009
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "One",
+            "Zero"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1010
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Four"
+                ]
+              ],
+              "uniqueID": 1011
+            }
+          ]
+        }
+      ],
+      "level": 4
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Two",
+            "One"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1012
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1013
+            }
+          ]
+        }
+      ],
+      "level": 5
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Two",
+            "Two"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1014
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1015
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Two",
+            "Three"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1016
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1017
+            }
+          ]
+        }
+      ],
+      "level": 6
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Two",
+            "Four"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Four"
+                ]
+              ],
+              "uniqueID": 1018
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1019
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Two",
+            "Zero"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Zero"
+                ]
+              ],
+              "uniqueID": 1020
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1021
+            }
+          ]
+        }
+      ],
+      "level": 7
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Three",
+            "One"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1022
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1023
+            }
+          ]
+        }
+      ],
+      "level": 8
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Three",
+            "Two"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Three",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1024
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1025
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Three",
+            "Three"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Three",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1026
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1027
+            }
+          ]
+        }
+      ],
+      "level": 9
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Three",
+            "Four"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "Three",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1028
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Four"
+                ]
+              ],
+              "uniqueID": 1029
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Three",
+            "Zero"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Zero"
+                ]
+              ],
+              "uniqueID": 1030
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Zero"
+                ]
+              ],
+              "uniqueID": 1031
+            }
+          ]
+        }
+      ],
+      "level": 10
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Four",
+            "One"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Three",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1032
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1033
+            }
+          ]
+        }
+      ],
+      "level": 11
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Four",
+            "Two"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Four",
+                  "One"
+                ]
+              ],
+              "uniqueID": 1034
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Three",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1035
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Four",
+            "Three"
+          ],
+          "skillSteps": [
+            {
+              "comparisonTones": [
+                [
+                  "Four",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1036
+            },
+            {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Three"
+                ]
+              ],
+              "uniqueID": 1037
+            }
+          ]
+        }
+      ],
+      "level": 12
+    },
+    {
+      "skills": [
+        {
+          "targetTone": [
+            "Four",
+            "Four"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "Three",
+                  "Four"
+                ]
+              ],
+              "uniqueID": 1038
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Two",
+                  "Four"
+                ]
+              ],
+              "uniqueID": 1039
+            }
+          ]
+        },
+        {
+          "targetTone": [
+            "Four",
+            "Zero"
+          ],
+          "skillSteps": [
+          {
+              "comparisonTones": [
+                [
+                  "One",
+                  "Zero"
+                ]
+              ],
+              "uniqueID": 1040
+            },
+            {
+              "comparisonTones": [
+                [
+                  "Four",
+                  "Two"
+                ]
+              ],
+              "uniqueID": 1041
+            }
+          ]
+        }
+      ],
+      "level": 13
+    }
+  ],
+  "skillTreeVersion": 1
+}

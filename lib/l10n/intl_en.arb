@@ -1,0 +1,82 @@
+{
+  "generalExit": "Exit",
+  "generalSave": "Save",
+  "generalCancel": "Cancel",
+  "generalReallyLeave": "Do you really want to leave?",
+  "generalYes": "Yes",
+  "generalNo": "No",
+  "generalSubmit": "Submit",
+  "generalFinish": "Finish",
+  "customPracticeSettingsTitle": "Custom Practice Settings",
+  "customPracticeSettingsEnabledTones": "Enabled Tones",
+  "customPracticeSettingsDailyCards": "Daily Cards",
+  "customPracticeAreYouReadyCardsLeft": "Are you ready?\nYou have {count, plural, =1{1 card} other{{count} cards}} left to study today\nLet's go practice some tones!\n",
+  "@customPracticeAreYouReadyCardsLeft": {
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "customPracticeImReady": "I'm ready!",
+  "customPracticeNoCardsLeft": "\nYou've already finished all your cards for today! Make sure to check back tomorrow!",
+  "customPracticeTitle": "Custom Practice",
+  "firstRunTitle": "Welcome to RisingTone",
+  "firstRunGender": "Please select your gender",
+  "firstRunLanguageLevel": "Please select your Chinese language level",
+  "firstRunMotherLanguage": "Please enter your mother language",
+  "firstRunAgreement": "I allow my usage data to be used for research purposes",
+  "lessonNext": "Next",
+  "lessonTitle": "{cardsStudied}/{totalCards} Incorrect: {cardsIncorrect}",
+  "@lessonTitle": {
+    "placeholders": {
+      "cardsStudied": {
+        "type": "num",
+        "format": "compact"
+      },
+      "totalCards": {
+        "type": "num",
+        "format": "compact"
+      },
+      "cardsIncorrect": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "skillTreeViewPractice": "Practice",
+  "lessonInterruptProgressWillBeLost": "You have not finished your lesson yet!\nIf you exit now you your progress in this lesson will be lost.",
+  "lessonSummary": "'Total Cards Studied: {cardsStudied}\n Cards Answered Correctly: {cardsCorrect}\n Percentage Correct {percentageCorrect}",
+  "@lessonSummary": {
+    "placeholders": {
+      "cardsStudied": {
+        "type": "num",
+        "format": "compact"
+      },
+      "cardsCorrect": {
+        "type": "num",
+        "format": "compact"
+      },
+      "percentageCorrect": {
+        "type": "num",
+        "format": "percentPattern"
+      }
+    }
+  },
+  "toneModelOne": "One",
+  "toneModelTwo": "Two",
+  "toneModelThree": "Three",
+  "toneModelFour": "Four",
+  "toneModelZero": "Zero",
+  "toneModelHigh": "high",
+  "toneModelRising": "rising",
+  "toneModelLow": "low",
+  "toneModelFalling": "falling",
+  "toneModelNeutral": "neutral",
+  "flashcardsExampleTargetHint": "This tone pair is {tone}. It is the focus of this lesson. \nListen to it, paying attention to the changes in pitch.",
+  "flashcardsExampleComparisonHint": "This tone pair is {tone}. Compare it to the first tone we looked at in the lesson paying attention to the changes in pitch.",
+  "flashcardsPracticeHint": "This card could be any of the tone pairs we've heard in this lesson. Feel free to listen to it as many times as you need to.",
+  "flashcardsACombinationOfA": "a combination of a {tone} tone",
+  "flashcardsFollowedByA": " followed by a {tone} tone"
+}
